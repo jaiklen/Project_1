@@ -38,6 +38,7 @@ nav a{
     
 
 }
+
 nav{
     text-align: center;
 }
@@ -107,7 +108,4 @@ tr{
 
 table tr:hover{
     opacity: 1;
-}
-active:hover{
-	opacity:7;
 }
